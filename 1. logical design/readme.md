@@ -1,0 +1,1 @@
+database should support the management of a Car-Sharing cooperation. It should be implemented with an object-relational database management system
